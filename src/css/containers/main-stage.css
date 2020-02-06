@@ -1,0 +1,34 @@
+.main-stage {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../../img/404.png);
+    background-repeat: no-repeat;
+    background-position: center 140px;
+    background-size: 400px;
+    
+}
+
+.main-stage > .simple-title {
+    margin-bottom: var(--gap-smaller);
+}
+
+.main-stage > .simple-subtitle {
+    margin-bottom: var(--gap-big);
+}
+
+.main-stage > .primary-button {
+    margin-bottom: var(--gap-smaller);
+    width: 180px;
+    text-align: center;
+    height: 28px;
+    line-height: 28px;
+    font-size: 0.9em;
+   
+}
+
+.main-stage > .simple-action {
+    font-size: 0.9em;
+}

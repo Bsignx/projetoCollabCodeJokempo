@@ -1,0 +1,12 @@
+.simple-action {
+    font-family: Comfortaa, sans-serif;
+    color: var(--color-secondary);
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+.-light {
+    color: var(--color-base-light);
+    font-family: 'Bitter', serif;
+}

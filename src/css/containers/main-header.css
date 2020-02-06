@@ -1,0 +1,12 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: var(--gap-smaller);
+}
+
+.main-header > .main-logo {
+    font-size: 1.25em;
+}
